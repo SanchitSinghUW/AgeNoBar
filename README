@@ -1,0 +1,35 @@
+Website: https://sites.google.com/uw.edu/agenobar/home
+
+Team Members: Sanchit Singh, Mallory Johnson, Raden Roy Pradana
+
+This project was run on Google Colab, so the files here are notebooks that will only run on Colab.
+
+Datasets: The raw pictures are in /datasets. Pictures of Mallory and Sanchit are not included here for privacy. However, pictures of Justin Bieber, AgnezMo, Raven-Symone, and other are still useful.
+
+Code:
+1) Data Augmentation, Model Training, Testing, and Face Detection + Classification: 
+https://colab.research.google.com/drive/1NMC4T98L93EQGRoJWbRybi6S3iB-ChF5?usp=sharing
+or
+./code/455_Final_Project.ipynb
+
+2) Model Playground: 
+https://colab.research.google.com/drive/1A7YIMGb60EK7VgNbSTxZagGMGKtoFoJb?usp=sharing
+or
+./code/Model_Test_Playground.ipynb
+
+3) Human Benchmark Dataset Creation Script: 
+https://colab.research.google.com/drive/1sESV42Ntm4m6Le0Yil-2TWbcL3R19NRT
+or
+./code/Human_Benchmark_Creator.ipynb
+
+4) Dataset to Slides (for human benchmark training) Apps script:
+./code/pics_to_slides.gs
+
+5) Dataset to Quiz (for human benchmark testing) Apps script:
+./code/pics_to_slides.gs
+
+6) Google Slides for training:
+https://docs.google.com/presentation/d/1yPCvFIShSoWz5SdoJNJ-mGF-ePrNiVUS3sRF6tutJzM/edit
+
+7) Google Quiz for testing:
+https://docs.google.com/forms/d/1zH5cRdKRJw3FRoDYr2tAbS9CQgbV9e8c5MER-stP1mg/edit?usp=drive_web
